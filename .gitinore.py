@@ -1,0 +1,9 @@
+/sudoku.csv
+model.ipynb
+.ipynb_checkpoints
+/model.ipynb
+.ipynb_checkpoints
+/env
+/__pycache__
+/mindlock-model.h5
+/model-OCR.h5
